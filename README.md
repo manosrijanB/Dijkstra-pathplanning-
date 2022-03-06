@@ -1,2 +1,0 @@
-# Dijkstra-pathplanning-
-Dijkstra algorithm 
